@@ -9,7 +9,7 @@
 <p>
 	<a href="https://linkedin.com/in/sanjay-kavalli-04626a178"><img src="https://img.shields.io/badge/LinkedIn-View%20profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
 	<a href="mailto:kavallisanjay07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email Sanjay"></a>
-	<a href="https://leetcode.com/u/sanjaykavallisanjay"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode profile"></a>
+	<a href="https://leetcode.com/u/kavallisanjay/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode profile"></a>
 </p>
 
 **Bengaluru, India** &nbsp; / &nbsp; **Go · PostgreSQL · Backend Engineering**
