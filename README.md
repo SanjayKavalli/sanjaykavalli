@@ -1,42 +1,56 @@
-# Sanjay Kavalli
+<div align="center">
 
-### Golang Backend Engineer · APIs, concurrency, and reliable services
+# Hi, I'm Sanjay Kavalli
 
-I build and operate backend software with **Go** and **PostgreSQL**. Over 4+ years, I’ve worked across API design, asynchronous processing, database performance, and production troubleshooting in different product domains.
+### Golang Backend Engineer · APIs · Reliable Systems
 
-Bengaluru, India · [LinkedIn](https://linkedin.com/in/sanjay-kavalli-04626a178) · [LeetCode](https://leetcode.com/u/sanjaykavallisanjay) · [Email](mailto:kavallisanjay07@gmail.com)
+<p><strong>From service design to production reliability.</strong></p>
 
-## Engineering Focus
+<p>
+	<a href="https://linkedin.com/in/sanjay-kavalli-04626a178"><img src="https://img.shields.io/badge/LinkedIn-View%20profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+	<a href="mailto:kavallisanjay07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email Sanjay"></a>
+	<a href="https://leetcode.com/u/sanjaykavallisanjay"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode profile"></a>
+</p>
 
-| Area | Experience |
-| --- | --- |
-| Backend | Go services, REST APIs, layered design, authentication, and access control |
-| Concurrency | Goroutines, worker pools, asynchronous jobs, retries, and recovery |
-| Data | PostgreSQL schema design, transactions, indexing, and query optimization |
-| Operations | Production debugging, observability, incident response, and security fixes |
+**Bengaluru, India** &nbsp; / &nbsp; **Go · PostgreSQL · Backend Engineering**
 
-## Selected Projects
+</div>
 
-| Project | What it does |
-| --- | --- |
-| [Go API Load Tester](https://github.com/SanjayKavalli/api-load-tester) | Runs concurrent API workloads with weighted scenarios, coordinated requests, and response reporting. |
-| [Format-Json-Data](https://github.com/SanjayKavalli/Format-Json-Data) | Transforms compact JSON request fields into an API payload shape and supports response inspection through a webhook. |
+---
+
+Backend engineer with 4+ years of experience shipping and supporting production software. I work primarily with Go and PostgreSQL, with a focus on clear API design, safe concurrency, reliable background processing, and systems that are straightforward to operate. My experience spans multiple product domains; I enjoy solving backend problems that matter regardless of industry.
+
+## What I Bring
+
+- **Backend systems:** Go services, REST API design, layered architecture, authentication, and access control
+- **Concurrency and async work:** goroutines, worker pools, retries, locking, and recovery for long-running jobs
+- **Data:** PostgreSQL schema design, transaction handling, indexing, and query optimization
+- **Production ownership:** observability, incident debugging, root-cause analysis, and security remediation
+
+## Selected Work
+
+### [Go API Load Tester](https://github.com/SanjayKavalli/api-load-tester)
+An open-source Go tool for concurrent API testing, weighted workloads, coordinated scenarios, and response reporting.
+
+### URL Shortener Service
+A Go and PostgreSQL service covering URL creation, persistence, validation, and redirection, built with a layered design and unit tests.
 
 ## Experience
 
-**Software Engineer · Eurofins IT Solutions India** · *2025–Present*
+**Software Engineer · Eurofins IT Solutions India Pvt Ltd**
 
-Build Go APIs and asynchronous workflows, with a focus on PostgreSQL performance and production reliability.
+*2025–Present · Bengaluru*
 
-**Software Developer · MediGuru Global Solutions** · *2022–2024*
+Building Go APIs and asynchronous backend workflows; improving PostgreSQL performance and production reliability.
 
-Worked across Go and .NET backend services, Angular applications, and Azure Functions.
+**Software Developer · MediGuru Global Solutions Pvt Ltd**
 
-## Toolkit
+*2022–2024 · Chennai*
 
-| | |
-| --- | --- |
-| Backend | Go, REST, goroutines, worker pools, background jobs |
-| Data | PostgreSQL, SQL, transactions, query optimization |
-| Cloud & operations | Docker, Kubernetes, Azure, AWS, Grafana |
-| Also used | C#, ASP.NET Core, Angular, TypeScript |
+Developed Go and .NET backend services, Angular applications, and Azure Functions.
+
+## Core Stack
+
+`Go` `PostgreSQL` `SQL` `Docker` `Kubernetes` `Azure` `AWS` `Grafana`
+
+Also experienced with C#, ASP.NET Core, Angular, and TypeScript.
